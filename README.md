@@ -8,6 +8,9 @@ Welcome! This repo highlights projects I’ve worked on. Each folder contains co
 - **Tech:** Python, Flask, Supabase, Google Maps API, BeautifulSoup
 - **Role:** Developed API layer and event data storage
 - **Highlights:** Built backend services to fetch, store, and serve event data to the frontend
+- **Repository:** https://github.com/CSC-3380-Spring-2025/Team-21.git
+
+
 
 ### [Secure Messaging App](./messaging-app)
 - **Tech:** React (TSX), HTML, Firebase
