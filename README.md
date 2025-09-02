@@ -16,6 +16,6 @@ Welcome! This repo highlights projects I’ve worked on. Each folder contains co
 - **Tech:** React (TSX), HTML, Firebase
 - **Role:** Contributed backend functionality, integrated authentication
 - **Highlights:** Collaborated with a team to design and implement a working messaging platform
-
+- **Repository:** https://github.com/theBaconn/FileShareProject/tree/live_view
 ---
 
